@@ -1,0 +1,2 @@
+# rickygadgets
+website for phones
