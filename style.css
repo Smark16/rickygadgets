@@ -1,0 +1,72 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+body{
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;;
+}
+.barpos{
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+}
+.phones img{
+    width: 100%;
+}
+ .logo{
+    width: 200px;
+    height: 50px;
+ }
+ .ricky{
+    color: red;
+ }
+ .gadgets{
+    width: 100%;
+ }
+ .gadgets .cont{
+    font-size: 30px;
+ }
+ .iimages{
+    width:100%;
+    height: 500px;
+ }
+ .iimages img{
+    width:80%;
+    height:400px;
+ }
+ .myfoot{
+    margin-left:-30px;
+ }
+ .foot{
+    width: 450px;
+    height: 200px;
+    margin-left:-30px;
+ }
+ .list-inline img{
+    width: 40px;
+    height: 40px;
+ }
+ li{
+    list-style: none;
+ }
+ .sec{
+   margin-top: 30px;
+   border: 2px solid black;
+   padding:20px;
+   border-radius:10px;
+ }
+ textarea{
+   resize: none;
+ }
+ .span{
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+ }
